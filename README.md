@@ -8,4 +8,4 @@ Strategic writing that translates technical complexity into compliant, audience-
 - Design Justification: String Replacement on an Acoustic Guitar SOP
 - Translating a Complex Concept Into a Q&A Brief: Hyperreality
 
-[Download Portfolio](<Alexander Messejnikov — Technical Writing Portfolio.pdf>)
+[View Portfolio](<Alexander Messejnikov — Technical Writing Portfolio.pdf>)
