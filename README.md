@@ -5,7 +5,7 @@ Strategic writing that translates technical complexity into compliant, audience-
 ## Sample Overview
 
 - SOP: String Replacement on an Acoustic Guitar
-- Design Justification: String Replacement on an Acoustic Guitar SOP
+- SOP Design Justification: String Replacement on an Acoustic Guitar
 - Translating a Complex Concept Into a Q&A Brief: Hyperreality
 
 [View Portfolio (PDF)](<Alexander Messejnikov — Technical Writing Portfolio.pdf>)
